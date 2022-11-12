@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Downloads/Compressed/javamail-1.4.5" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file://$USER_HOME$/Downloads/Compressed/javamail-1.4.5/docs/javadocs" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="file://$USER_HOME$/Downloads/Compressed/javamail-1.4.5/demo" />
+          <root url="file://$USER_HOME$/Downloads/Compressed/javamail-1.4.5/demo/client" />
+          <root url="file://$USER_HOME$/Downloads/Compressed/javamail-1.4.5/demo/logging" />
+          <root url="file://$USER_HOME$/Downloads/Compressed/javamail-1.4.5/demo/outlook" />
+          <root url="file://$USER_HOME$/Downloads/Compressed/javamail-1.4.5/demo/servlet" />
+          <root url="file://$USER_HOME$/Downloads/Compressed/javamail-1.4.5/demo/webapp/src/classes" />
+          <root url="file://$USER_HOME$/Downloads/Compressed/javamail-1.4.5/demo/webapp/src/taglib" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/Downloads/Compressed/javamail-1.4.5" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/important file/fontawesomefx-glyphsbrowser-1.3.0/fontawesomefx-8.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/important file/fontawesomefx-glyphsbrowser-1.3.0/jfoenix-9.0.10.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/src/banksoftware/ojdbc6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
